@@ -1,5 +1,3 @@
-markdown
-
 # APID2 Dashboard
 <html>
 <head>
