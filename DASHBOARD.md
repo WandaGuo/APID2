@@ -4,7 +4,7 @@
   <title>APID2 Dashboard</title>
 </head>
 <body>
-  <h1> Tracking Table</h1>
+  <h1> Tracking Dashboard</h1>
 
 <p>🌐
   <a href="https://bapbiwaf.tsmc.com.tw/reports/powerbi/CYGUOB/FDC_Mag_V1?rc:Toolbar=false" style="font-size: 24px;" target="_blank">
@@ -15,7 +15,7 @@
 
 <p>🌐
   <a href="https://appowerbi.waf.platform.ap.tsmc.com/Reports/powerbi/APOD/APID/APID2/APID2_Hold_Lot" style="font-size: 24px;" target="_blank">
-    HoldLot
+    Hold Lot
   </a>
   <span style="font-size: 12px; color: gray;">Hold Lot Dashboard</span>
 </p>
