@@ -1,4 +1,3 @@
-
 layout : none
 # APID2 Dashboard
 
