@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
@@ -7,8 +6,6 @@
 <body>
   <h1> Tracking Table</h1>
 <a href="[https://google.com](https://bapbiwaf.tsmc.com.tw/reports/powerbi/CYGUOB/FDC_Mag_V1?rc:Toolbar=false)" target="_blank">FDC_Mag</a>
-
-  
-  <p> Dashboard。</p>
+  <p> 可查詢DA tool對應PM1 mag值Dashboard。</p>
 </body>
 </html>
