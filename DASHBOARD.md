@@ -1,4 +1,7 @@
-layout : none
+---
+layout: none
+---
+
 # APID2 Dashboard
 
 <html>
