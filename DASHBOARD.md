@@ -5,7 +5,6 @@ layout: default
   .site-title{
     display: none !important;
   }
-  </style>
 </style>
 # APID2 Dashboard
 
