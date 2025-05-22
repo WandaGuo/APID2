@@ -5,7 +5,7 @@
   <title>APID2 Dashboard</title>
 </head>
 <body>
-  <h1> Tracking Dashboard</h1>
+  <h2> Tracking Table</h2>
 
 <p>🌐
   <a href="https://bapbiwaf.tsmc.com.tw/reports/powerbi/CYGUOB/FDC_Mag_V1?rc:Toolbar=false" style="font-size: 24px;" target="_blank">
