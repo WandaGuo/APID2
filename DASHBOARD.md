@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+markdown
+
+# APID2 Dashboard
 <html>
 <head>
   <meta charset="UTF-8">
