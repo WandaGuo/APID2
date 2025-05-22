@@ -14,7 +14,7 @@
 </p>
 
 <p>🌐
-  <a href="https://appowerbi.waf.platform.ap.tsmc.com/Reports/powerbi/APOD/APID/APID2/APID2_Hold_Lot" style="font-size: 24px;" target="_blank">
+  <a href="https://appowerbi.waf.platform.ap.tsmc.com/Reports/powerbi/APOD/APID/APID2/APID2_Hold_Lot?rc:Toolbar=false" style="font-size: 24px;" target="_blank">
     Hold Lot
   </a>
   <span style="font-size: 12px; color: gray;">Hold Lot Dashboard</span>
