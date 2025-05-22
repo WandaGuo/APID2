@@ -1,4 +1,5 @@
 # APID2 Dashboard
+layout : none
 <html>
 <head>
   <meta charset="UTF-8">
