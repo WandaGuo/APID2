@@ -1,7 +1,12 @@
 ---
-layout: none
+layout: default
 ---
-
+<style>
+  .site-title{
+    display: none !important;
+  }
+  </style>
+</style>
 # APID2 Dashboard
 
 <html>
