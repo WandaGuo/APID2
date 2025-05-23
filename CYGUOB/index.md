@@ -26,9 +26,9 @@ a.button {
   transition: background-color 0.3s ease;
 }
 a.button:hover {
-  background-color: #2980b9;
+  background-color: #8980b9;
 }
   
 </style>
 
-<a class="button" href="https://wandaguo.github.io/APID/"> HOME</a>
+<a class="button" href="https://wandaguo.github.io/APID/DASHBOARD"> HOME</a>
