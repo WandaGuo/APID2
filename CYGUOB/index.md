@@ -30,5 +30,8 @@ a.button:hover {
 }
   
 </style>
+<p>🌐
+  <a href="https://bapbiwaf.tsmc.com.tw/reports/powerbi/CYGUOB/Inline%20data_V2?rc:Toolbar=false" style="font-size: 24px;" target="_blank">
+    Inline Data
 
 <a class="button" href="https://wandaguo.github.io/APID/DASHBOARD/"> HOME</a>
