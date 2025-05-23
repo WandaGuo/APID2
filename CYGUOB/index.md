@@ -37,4 +37,11 @@ a.button:hover {
   <span style="font-size: 12px; color: gray;">TMUA29/TMUA36 Inline Data</span>
 </p>
 
+<p>🌐
+  <a href="https://bapbiwaf.tsmc.com.tw/reports/powerbi/CYGUOB/FDC_Mag_V1?rc:Toolbar=false" style="font-size: 24px;" target="_blank">
+    FDC_Mag Tracking
+    </a>
+  <span style="font-size: 12px; color: gray;">可查詢DA tool對應PM1 mag值Dashboard</span>
+</p>
+
 <a class="button" href="https://wandaguo.github.io/APID/DASHBOARD/"> HOME</a>
