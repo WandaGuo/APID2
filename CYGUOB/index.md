@@ -22,7 +22,7 @@ a.button {
   background-color: #3498db;
   color: white;
   text-decoration: none;
-  border-radius: 9px;
+  border-radius: 3px;
   transition: background-color 0.3s ease;
 }
 a.button:hover {
@@ -31,4 +31,4 @@ a.button:hover {
   
 </style>
 
-<a class="button" href="https://wandaguo.github.io/APID/DASHBOARD"> HOME</a>
+<a class="button" href="https://wandaguo.github.io/APID/DASHBOARD/"> HOME</a>
