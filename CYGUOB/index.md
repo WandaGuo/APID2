@@ -5,7 +5,7 @@ title: CYGUOB
 
 # CYGUOB WorkTable
 
-CYGUOB工作相關報表
+工作相關報表
 <style>
 h1 {
     font-size:2.2rem;
@@ -29,6 +29,6 @@ a.button:hover {
   background-color: #2980b9;
 }
   
-  
 </style>
 
+<a class="button" href="https://wandaguo.github.io/APID/"> HOME</a>
