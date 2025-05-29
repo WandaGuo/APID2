@@ -44,4 +44,10 @@ a.button:hover {
   <span style="font-size: 12px; color: gray;">可查詢DA tool對應PM1 mag值Dashboard</span>
 </p>
 
+<p>🌐
+  <a href="https://bapbiwaf.tsmc.com.tw/reports/powerbi/CYGUOB/Inline%20data_V3?rc:Toolbar=false" style="font-size: 24px;" target="_blank">
+    Inline Data Tracking
+  </a>
+    <span style="font-size: 12px; color: gray;">可查詢inline data by tool Dashboard</span>
+
 <a class="button" href="https://wandaguo.github.io/APID/DASHBOARD/"> HOME</a>
