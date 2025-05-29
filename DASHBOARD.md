@@ -29,11 +29,7 @@ layout: default
   <span style="font-size: 12px; color: gray;">Hold Lot Dashboard</span>
 </p>
 
-<p>🌐
-  <a href="https://bapbiwaf.tsmc.com.tw/reports/powerbi/CYGUOB/Inline%20data_V3?rc:Toolbar=false" style="font-size: 24px;" target="_blank">
-    Inline Data Tracking
-  </a>
-    <span style="font-size: 12px; color: gray;">可查詢inline data by tool Dashboard</span>
+
 </p>
 
 
