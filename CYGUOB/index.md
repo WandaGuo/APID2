@@ -49,5 +49,12 @@ a.button:hover {
     Inline Data Tracking
   </a>
     <span style="font-size: 12px; color: gray;">可查詢inline data by tool Dashboard</span>
+<p>🌐
+  <a href="https://bapbiwaf.tsmc.com.tw/reports/powerbi/CYGUOB/WIP?rc:Toolbar=false" style="font-size: 24px;" target="_blank">
+    WIP
+  </a>
+    <span style="font-size: 12px; color: gray;">可查詢Tool過貨紀錄</span>
+
+
 
 <a class="button" href="https://wandaguo.github.io/APID/DASHBOARD/"> HOME</a>
